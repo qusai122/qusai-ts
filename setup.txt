@@ -1,0 +1,2 @@
+to setup and run this project run the next commands first
+
